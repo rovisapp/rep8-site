@@ -1,0 +1,11 @@
+title: Rep8
+description: Local-first strength workout tracker for iPhone and Apple Watch.
+url: "https://rovisapp.github.io"
+baseurl: "/rep8-site"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+# Don't list helper files on the site index.
+exclude:
+  - README.md
